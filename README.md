@@ -13,8 +13,12 @@ As mentioned before, the robot consists of a scale and thermistor probe, working
 Main Menu <br>
 ![unnamed](https://github.com/user-attachments/assets/b9dac88c-ece4-4b86-bc77-ab6f711126a1) <br>
 "Create Recipe" Page <br>
-![Screenshot (167)](https://github.com/user-attachments/assets/b32182f2-edef-4e72-a80e-de34204b273a)
+![Screenshot (167)](https://github.com/user-attachments/assets/b32182f2-edef-4e72-a80e-de34204b273a) <br>
 When a Recipe is Selected <br>
 ![Screenshot (166)](https://github.com/user-attachments/assets/0845a27d-b6fe-4dea-9bb3-d9951748d979)
-![Screenshot (168)](https://github.com/user-attachments/assets/422495bd-186d-4729-822f-60b64ba7b1cf)
+![Screenshot (168)](https://github.com/user-attachments/assets/422495bd-186d-4729-822f-60b64ba7b1cf) <br>
+"Weight Scale" Page <br>
+![Screenshot (169)](https://github.com/user-attachments/assets/cc5b5e62-034c-43f7-9028-e6bdd391c25c) <br>
+"Thermometer" Page <br>
 
+"Timer" Page <br>
