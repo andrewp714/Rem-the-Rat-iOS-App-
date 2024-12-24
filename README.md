@@ -9,9 +9,9 @@ As mentioned before, the robot consists of a scale and thermistor probe, working
 ![Screenshot (165)](https://github.com/user-attachments/assets/31f89a3f-4ea8-4c2b-9853-d57480649ffd)
 
 ## Software Verification
-**Mobile App**
-Main Menu
-![unnamed](https://github.com/user-attachments/assets/b9dac88c-ece4-4b86-bc77-ab6f711126a1)
-"Create Recipe" Page
+**Mobile App** <br>
+Main Menu <br>
+![unnamed](https://github.com/user-attachments/assets/b9dac88c-ece4-4b86-bc77-ab6f711126a1) <br>
+"Create Recipe" Page <br>
 ![Screenshot (167)](https://github.com/user-attachments/assets/b32182f2-edef-4e72-a80e-de34204b273a)
 
