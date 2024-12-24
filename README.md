@@ -20,5 +20,6 @@ When a Recipe is Selected <br>
 "Weight Scale" Page <br>
 ![Screenshot (169)](https://github.com/user-attachments/assets/cc5b5e62-034c-43f7-9028-e6bdd391c25c) <br>
 "Thermometer" Page <br>
-
+![Screenshot (170)](https://github.com/user-attachments/assets/2dff2ed2-2b7a-4176-b997-a76bab3cb33e) <br>
 "Timer" Page <br>
+![Screenshot (171)](https://github.com/user-attachments/assets/0ffbc097-8def-453e-99d7-270ee3e96c83)
